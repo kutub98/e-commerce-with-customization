@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "color": "White",
+    "type": "Summer",
+    "price": 100,
+    "material": ["Solid", "Cotton"],
+    "img": "https://d2yo8p89bpsqlq.cloudfront.net/dimg/fabric/blouse/995_huge_c300.jpg"
+  },
+  {
+    "id": 2,
+    "color": "Imperial Red",
+    "type": "Summer",
+    "price": 150,
+    "material": ["Solid"],
+    "img": "https://d2yo8p89bpsqlq.cloudfront.net/dimg/fabric/blouse/996_huge_c300.jpg"
+  },
+  {
+    "id": 3,
+    "color": "Onyx Black",
+    "type": "Spring",
+    "price": 120,
+    "material": [],
+    "img": "https://d2yo8p89bpsqlq.cloudfront.net/dimg/fabric/blouse/999_huge_c300.jpg"
+  },
+  {
+    "id": 4,
+    "color": "Navy Blue",
+    "type": "Autumn",
+    "price": 130,
+    "material": ["Solid"],
+    "img": "https://d2yo8p89bpsqlq.cloudfront.net/dimg/fabric/blouse/1744_huge_c300.jpg"
+  },
+  {
+    "id": 5,
+    "color": "Coral Red",
+    "type": "Autumn",
+    "price": 130,
+    "material": ["Solid"],
+    "img": "https://d2yo8p89bpsqlq.cloudfront.net/dimg/fabric/blouse/1275_huge_c300.jpg"
+  },
+  {
+    "id": 6,
+    "color": "Floral",
+    "type": "Year Round",
+    "price": 130,
+    "material": ["Solid"],
+    "img": "https://d2yo8p89bpsqlq.cloudfront.net/dimg/fabric/blouse/1741_huge_c300.jpg"
+  }
+]
