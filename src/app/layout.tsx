@@ -1,10 +1,10 @@
-import { asap } from '@/assets/fonts';
-import '@/styles/core.scss';
-import type { Metadata } from 'next';
+import { asap } from "@/assets/fonts";
+import "@/styles/core.scss";
+import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: 'Customization Example',
-  description: 'ABC Corp. - Customization Example',
+  title: "Customization Example...",
+  description: "ABC Corp. - Customization Example ...",
 };
 
 export default function RootLayout({
@@ -13,7 +13,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang='en'>
+    <html lang="en">
       <body className={asap.className}>{children}</body>
     </html>
   );
